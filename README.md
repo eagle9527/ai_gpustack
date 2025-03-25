@@ -13,8 +13,12 @@ ai_gpustack:
     api_key: "gpustack_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
-### 1.功能展示
+#### README(有GIF动图演示☺️☺️)
+```
+https://github.com/eagle9527/ai_gpustack/blob/main/README.md
+```
 
+### 1.功能展示
 ### 功能 
 ![问答](https://github.com/eagle9527/ai_gpustack/blob/main/chart.png?raw=true)
 ![历史](https://github.com/eagle9527/ai_gpustack/blob/main/history.png?raw=true)
