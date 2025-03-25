@@ -3,7 +3,7 @@ ai_gpustack plugin
 
 ### 插件能力
 ```
-   1. 对接GPUStack,提供多模型，问答及历史记录
+   1. 对接GPUStack,提供多模型，推理及推理历史记录
 ```
 ### 该插件支持一键导入
 ### 配置文件修改（config.yaml 添加如下配置， api_key请在GPUStack里面创建）
