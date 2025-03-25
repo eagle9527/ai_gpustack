@@ -5,7 +5,13 @@ ai_gpustack plugin
 ```
    1. 对接GPUStack,提供多模型，问答及历史记录
 ```
-该插件支持一键导入
+### 该插件支持一键导入
+### 配置文件修改（config.yaml 添加如下配置， api_key请在GPUStack里面创建）
+```
+ai_gpustack:
+    host: localhost
+    api_key: "gpustack_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
 
 ### 1.功能展示
 
