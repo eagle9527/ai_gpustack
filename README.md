@@ -13,3 +13,5 @@ ai_gpustack plugin
 ![问答](https://github.com/eagle9527/ai_gpustack/blob/main/chart.png?raw=true)
 ![历史](https://github.com/eagle9527/ai_gpustack/blob/main/history.png?raw=true)
 ![历史详情](https://github.com/eagle9527/ai_gpustack/blob/main/history_detail.png?raw=true)
+### 动态演示
+![演示](https://github.com/eagle9527/ai_gpustack/blob/main/yanshi.gif?raw=true)
