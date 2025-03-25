@@ -7,7 +7,7 @@ ai_gpustack plugin
 ```
 该插件支持一键导入
 
-### 9.功能展示
+### 1.功能展示
 
 ### 功能 
 ![问答](https://github.com/eagle9527/ai_gpustack/blob/main/chart.png?raw=true)
